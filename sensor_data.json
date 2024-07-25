@@ -1,0 +1,79 @@
+{
+    "boardTemp": {
+      "temp": 29.5662632,
+      "humi": 79.45815277,
+      "cpuTemp": 40.92419815
+    },
+    "thermistor": {
+      "ch0Adc": 32767,
+      "ch0Resistance": null,
+      "ch0Voltage": 6.143812656,
+      "ch0Temp": null,
+      "ch1Adc": 32767,
+      "ch1Resistance": null,
+      "ch1Voltage": 6.143812656,
+      "ch1Temp": -273.1499939
+    },
+    "voltage": {
+      "twelveVolt": {
+        "current": 1,
+        "voltage": 0.984000027,
+        "power": 0
+      },
+      "fiveVolt": {
+        "current": 0,
+        "voltage": 0,
+        "power": 0
+      }
+    },
+    "fanSource": [
+      0,
+      0,
+      0,
+      0,
+      0
+    ],
+    "argbSource": 0,
+    "fanData": {
+      "freqs": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "duties": [
+        115,
+        111,
+        240,
+        114,
+        131
+      ],
+      "rpms": [
+        0,
+        0,
+        0,
+        0,
+        0
+      ]
+    },
+    "module": {
+      "molex": [
+        {
+          "current": 0,
+          "voltage": 0,
+          "power": 0
+        },
+        {
+          "current": 0,
+          "voltage": 0,
+          "power": 0
+        },
+        {
+          "current": 0,
+          "voltage": 0,
+          "power": 0
+        }
+      ]
+    }
+  }
